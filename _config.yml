@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+markdown: kramdown
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
