@@ -15,23 +15,25 @@ ctrl_introのレポジトリは制御に関する講習がすべてまとまっ�
 
     設計課題　[角柱の組み合わせ](exercise_1.md)
 
-- 第２回　[アクチュエータについて](main-mecha_0.md)
+- 第２回　[SOLIDWWORKSの役立ち機能](Lecture2_SOLIDWORKS_Practice_Use.md)
 
-    設計課題　[モーターの概形設計](exercise_2.md)
+- 第３回　[アクチュエータについて](main-mecha_0.md)
 
-- 第３回　[主駆動機構（１）](main-mecha_1.md)
+    設計課題　[モーターの概形設計](exercise_3.md)
+
+- 第４回　[主駆動機構（１）](main-mecha_1.md)
 
     設計課題　[ラックピニオン昇降装置](exercise_3.md)
 
-- 第４回　[主駆動機構（２）](main-mecha_2.md)
+- 第５回　[主駆動機構（２）](main-mecha_2.md)
 
-    設計課題　[簡単なリンクアーム](exercise_4.md)
+    設計課題　[簡単なリンクアーム](exercise_5.md)
 
-- 第５回　[加工について](main-mecha_3.md)
+- 第６回　[加工について](main-mecha_3.md)
 
-    設計課題　[図面の作成](exercise_5.md)
+    設計課題　[図面の作成](exercise_6.md)
 
-- 第６回　[足回りについて](Lecture6.md)
+- 第７回　[足回りについて](Lecture7.md)
 
 ### その他
 
