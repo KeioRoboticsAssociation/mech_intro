@@ -15,7 +15,7 @@ ctrl_introのレポジトリは制御に関する講習がすべてまとまっ�
 
     設計課題　[角柱の組み合わせ](exercise_1.md)
 
-- 第２回　[SOLIDWWORKSの役立ち機能](Lecture2_SOLIDWORKS_Practice_Use.md)
+- 第２回　[SOLIDWWORKSの役立ち機能（つくり途中）](Lecture2_SOLIDWORKS_Practice_Use.md)
 
 - 第３回　[アクチュエータについて](main-mecha_0.md)
 
