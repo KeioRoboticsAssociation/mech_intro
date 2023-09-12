@@ -40,3 +40,5 @@ ctrl_introのレポジトリは制御に関する講習がすべてまとまっ�
  - [CADデータのダウンロード方法](download_cad.md)
 
  - [図面テンプレートの設定](draw_templete.md)
+
+ - [基本部品の購入場所](https://kra.kibe.la/notes/5062)
